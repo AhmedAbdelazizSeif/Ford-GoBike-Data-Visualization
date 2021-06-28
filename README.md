@@ -41,9 +41,6 @@ Answering such questions resulted in seeing observations as mentioned below in t
 9. Most bike sharers under 30 are the most to use bikeshare for their whole trip
 10. Age doesn't really affect share duration 
 
-# Feedback
-My friend told me that it's quite good but the slides technique having each slide to go down to see chart findings is not a very good idea
-
 # Resources
 https://stackoverflow.com/questions/48145924/different-colors-for-points-and-line-in-seaborn-regplot <br>
 To see how to change the best fit line color<br>
