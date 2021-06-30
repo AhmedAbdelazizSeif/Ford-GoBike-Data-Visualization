@@ -50,3 +50,6 @@ https://online.stat.psu.edu/stat200/lesson/3/3.2#:~:text=We%20can%20use%20the%20
 To deal with age and duration outliers<br>
 http://centruldecariera.ase.ro/wp-content/iukzsd0v/6cff29-matplotlib-barh-descending-order<br>
 Tried to reach out for a way to make horizontal barplots go descendingly
+
+
+<a href="https://youtu.be/sY3wCspUKds">Slide Deck Video</a>https://youtu.be/sY3wCspUKds
