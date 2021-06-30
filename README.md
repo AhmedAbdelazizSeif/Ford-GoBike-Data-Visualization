@@ -52,4 +52,4 @@ http://centruldecariera.ase.ro/wp-content/iukzsd0v/6cff29-matplotlib-barh-descen
 Tried to reach out for a way to make horizontal barplots go descendingly
 
 
-<a href="https://youtu.be/sY3wCspUKds">Slide Deck Video</a>https://youtu.be/sY3wCspUKds
+<a href="https://youtu.be/sY3wCspUKds">Slide Deck Video</a>
